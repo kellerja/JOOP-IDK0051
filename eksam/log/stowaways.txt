@@ -1,0 +1,90 @@
+2017-01-04T23:20:40.721 Traveler2 was caught riding without ticket.
+2017-01-04T23:20:41.661 Traveler2 was caught riding without ticket.
+2017-01-04T23:22:40.584 Stowaway 0 was caught riding without ticket.
+2017-01-04T23:22:41.029 Stowaway 0 was caught riding without ticket.
+2017-01-04T23:22:50.933 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:34:20.984 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:39:17.866 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:02.195 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:02.583 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:03.134 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:06.309 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:07.992 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:16.543 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:20.657 Stowaway 0 was caught riding without ticket.
+2017-01-08T00:55:20.807 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:10:56.915 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:10:58.557 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:11:00.861 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:11:01.142 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:11:01.613 Stowaway 0 was caught riding without ticket.
+2017-01-08T01:11:01.824 Stowaway 0 was caught riding without ticket.
+2017-01-08T02:12:40.369 Stowaway 0 was caught riding without ticket.
+2017-01-08T02:13:17.438 Stowaway 0 was caught riding without ticket.
+2017-01-08T02:13:17.745 Stowaway 0 was caught riding without ticket.
+2017-01-08T02:13:18.378 Stowaway 0 was caught riding without ticket.
+2017-01-08T02:19:03.639 Stowaway 1 was caught riding without ticket.
+2017-01-08T02:19:29.223 Stowaway 2 was caught riding without ticket.
+2017-01-08T02:19:37.740 Stowaway 2 was caught riding without ticket.
+2017-01-08T02:19:38.678 Stowaway 2 was caught riding without ticket.
+2017-01-08T02:20:00.113 Stowaway 7 was caught riding without ticket.
+2017-01-08T02:20:01.013 Stowaway 4 was caught riding without ticket.
+2017-01-08T02:20:01.013 Stowaway 7 was caught riding without ticket.
+2017-01-08T02:22:48.943 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T02:22:49.756 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T02:22:50.022 Stowaway 2 was caught riding without ticket on train T3.
+2017-01-08T02:22:53.248 Stowaway 2 was caught riding without ticket on train T2.
+2017-01-08T02:22:55.072 Stowaway 2 was caught riding without ticket on train T1.
+2017-01-08T02:22:57.499 Stowaway 5 was caught riding without ticket on train T7.
+2017-01-08T14:13:41.746 Stowaway 2 was caught riding without ticket on train T7.
+2017-01-08T14:14:35.920 Stowaway 0 was caught riding without ticket on train T4.
+2017-01-08T14:14:35.932 Stowaway 5 was caught riding without ticket on train T4.
+2017-01-08T14:16:53.247 Stowaway 2 was caught riding without ticket on train T3.
+2017-01-08T14:16:54.321 Stowaway 2 was caught riding without ticket on train T1.
+2017-01-08T14:16:56.206 Stowaway 2 was caught riding without ticket on train T1.
+2017-01-08T14:19:48.092 Stowaway 3 was caught riding without ticket on train T1.
+2017-01-08T14:19:50.501 Stowaway 3 was caught riding without ticket on train T2.
+2017-01-08T14:19:54.840 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T14:19:55.436 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T14:19:57.509 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T14:25:46.224 Stowaway 6 was caught riding without ticket on train T2.
+2017-01-08T14:25:47.837 Stowaway 7 was caught riding without ticket on train T2.
+2017-01-08T14:51:33.783 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T14:51:34.980 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T14:51:41.030 Stowaway 7 was caught riding without ticket on train T6.
+2017-01-08T14:51:44.732 Stowaway 7 was caught riding without ticket on train T5.
+2017-01-08T15:44:41.835 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T15:44:42.278 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T16:54:43.770 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T16:54:44.378 Stowaway 0 was caught riding without ticket on train T2.
+2017-01-08T16:54:44.529 Stowaway 4 was caught riding without ticket on train T2.
+2017-01-08T16:54:46.401 Stowaway 3 was caught riding without ticket on train T1.
+2017-01-08T16:54:48.834 Stowaway 4 was caught riding without ticket on train T1.
+2017-01-08T16:54:49.416 Stowaway 0 was caught riding without ticket on train T2.
+2017-01-08T16:54:52.066 Stowaway 3 was caught riding without ticket on train T1.
+2017-01-08T16:54:52.414 Stowaway 0 was caught riding without ticket on train T1.
+2017-01-08T16:54:53.172 Stowaway 3 was caught riding without ticket on train T2.
+2017-01-08T16:55:59.993 Stowaway 2 was caught riding without ticket on train T2.
+2017-01-08T16:58:13.545 Stowaway 7 was caught riding without ticket on train T2.
+2017-01-08T16:58:13.556 Stowaway 1 was caught riding without ticket on train T1.
+2017-01-08T16:58:13.557 Stowaway 0 was caught riding without ticket on train T1.
+2017-01-08T16:58:14.624 Stowaway 7 was caught riding without ticket on train T1.
+2017-01-08T16:58:14.832 Stowaway 1 was caught riding without ticket on train T2.
+2017-01-08T16:58:18.097 Stowaway 2 was caught riding without ticket on train T5.
+2017-01-08T16:58:18.613 Stowaway 6 was caught riding without ticket on train T2.
+2017-01-08T17:04:05.567 Stowaway 2 was caught riding without ticket on train T1.
+2017-01-08T17:04:09.051 Stowaway 2 was caught riding without ticket on train T1.
+2017-01-08T17:04:10.809 Stowaway 1 was caught riding without ticket on train T6.
+2017-01-08T17:04:10.809 Stowaway 5 was caught riding without ticket on train T6.
+2017-01-08T17:04:11.765 Stowaway 1 was caught riding without ticket on train T5.
+2017-01-08T17:04:12.689 Stowaway 5 was caught riding without ticket on train T5.
+2017-01-08T17:04:17.350 Stowaway 5 was caught riding without ticket on train T5.
+2017-01-08T17:04:18.231 Stowaway 2 was caught riding without ticket on train T7.
+2017-01-08T17:04:18.232 Stowaway 5 was caught riding without ticket on train T7.
+2017-01-08T17:04:21.300 Stowaway 5 was caught riding without ticket on train T5.
+2017-01-08T21:31:34.137 Stowaway 6 was caught riding without ticket on train T2.
+2017-01-08T21:31:34.136 Stowaway 6 was caught riding without ticket on train T1.
+2017-01-08T21:31:36.081 Stowaway 6 was caught riding without ticket on train T1.
+2017-01-08T21:31:36.513 Stowaway 6 was caught riding without ticket on train T2.
+2017-01-08T21:31:37.114 Stowaway 6 was caught riding without ticket on train T1.
+2017-01-08T21:31:37.951 Stowaway 6 was caught riding without ticket on train T2.
